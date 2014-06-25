@@ -1,6 +1,9 @@
-/* 
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
+$(document).ready(function(){
+    
+    
+    $("body").html("<div class='ueberschrift'>Mein Spiel</div>");
+    $("body").append("Gleich geht's los.");
+    
+    
+});
 

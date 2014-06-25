@@ -1,12 +1,8 @@
-/* 
-    Document   : CSSfile
-    Created on : 25.06.2014, 17:08:25
-    Author     : srithj
-    Description:
-        Purpose of the stylesheet follows.
-*/
-
-root { 
-    display: block;
+.ueberschrift{
+    
+    
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    background-color: green;
+    color: #ff00ff;
 }
-
